@@ -6,6 +6,6 @@
   <title>GIT</title>
 </head>
 <body>
-  
+  <h1>Hello this is index.php</h1>
 </body>
 </html>
